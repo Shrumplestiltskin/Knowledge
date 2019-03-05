@@ -1,5 +1,3 @@
-# Tricky ways to exploit PHP Local File Inclusion
-
 ## Introduction
 
 Brought from [Wikipedia](https://en.wikipedia.org/wiki/File_inclusion_vulnerability#Local_File_Inclusion), Local File Inclusion (LFI) is similar to a Remote File Inclusion vulnerability except instead of including remote files, only local files i.e. files on the current server can be included for execution.
